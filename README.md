@@ -7,7 +7,7 @@ Ambos documentos tem os códigos quase idênticos, mas um em .py e outro em .ipy
 Entre problemas corrigíveis no código, conferir se o seu _Login_ está correto, se os tempos de _sleep_ estão ajustados, deve resolver a maior parte. Tente rodar com o .ipynb também.
 Alguns problemas podem estar relacionados à instaláveis, driver, sua conexão à internet, servidores do Instagram (por exemplo, a caixa com a lista das pessoas que você segue não carrega corretamente).
 
-EN\r
+EN     
 Both documents have almost identical codes, but one in .py and the other in .ipynb.
 
 It's a selenium automation, which opens Google Chrome, accesses Instagram, logs into your account, collects who you're following and your followers and compares them in a list.
