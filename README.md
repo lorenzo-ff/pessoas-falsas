@@ -8,6 +8,7 @@ Entre problemas corrigíveis no código, conferir se o seu _Login_ está correto
 Alguns problemas podem estar relacionados à instaláveis, driver, sua conexão à internet, servidores do Instagram (por exemplo, a caixa com a lista das pessoas que você segue não carrega corretamente).
 
 EN     
+Returns a list of all the @s you follow on Instagram, but don't follow you back.
 Both documents have almost identical codes, but one in .py and the other in .ipynb.
 
 It's a selenium automation, which opens Google Chrome, accesses Instagram, logs into your account, collects who you're following and your followers and compares them in a list.
