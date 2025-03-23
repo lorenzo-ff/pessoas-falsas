@@ -1,4 +1,4 @@
-# pessoas-falsas
+# pessoas-falsas (web-scrapping)
 Retorna uma lista com todos os @ que você segue no Instagram, mas não te seguem de volta.
 
 Ambos documentos tem os códigos quase idênticos, mas um em .py e outro em .ipynb.
